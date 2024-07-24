@@ -39,7 +39,7 @@ class SearchForm extends Component {
 			                      <option>Property Status</option>
 			                      <option>Open house</option>
 			                      <option>Rent</option>
-			                      <option>Sale</option>
+			                 
 			                      <option>Sold</option>
 			                    </select>
 			                  </div> 
@@ -79,7 +79,7 @@ class SearchForm extends Component {
 			                      <option>Property Status</option>
 			                      <option>Open house</option>
 			                      <option>Rent</option>
-			                      <option>Sale</option>
+			                     
 			                      <option>Sold</option>
 			                    </select>
 			                  </div> 

@@ -91,7 +91,7 @@ class ShopDetails extends Component {
                       <label>Price:</label> <span>2</span>
                     </li>
                     <li>
-                      <label>Property Status:</label> <span>For Sale</span>
+                      <label>Property Status:</label> <span>For Rent</span>
                     </li>
                   </ul>
                 </div>
@@ -932,7 +932,7 @@ class ShopDetails extends Component {
                       <div className="product-info">
                         <div className="product-badge">
                           <ul>
-                            <li className="sale-badg">For Rent</li>
+                            <li className="Rent-badg">For Rent</li>
                           </ul>
                         </div>
                         <h2 className="product-title">
@@ -1025,7 +1025,7 @@ class ShopDetails extends Component {
                       <div className="product-info">
                         <div className="product-badge">
                           <ul>
-                            <li className="sale-badg">For Sale</li>
+                            <li className="Rent-badg">For Rent</li>
                           </ul>
                         </div>
                         <h2 className="product-title">

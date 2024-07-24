@@ -231,17 +231,7 @@ class Navbar extends Component {
                       </li>
                     </ul>
                   </div>
-                  {/* mini-cart */}
-                  <div className="mini-cart-icon">
-                    <a
-                      href="#ltn__utilize-cart-menu"
-                      className="ltn__utilize-toggle"
-                    >
-                      <i className="icon-shopping-cart"></i>
-                      <sup>2</sup>
-                    </a>
-                  </div>
-                  {/* mini-cart */}
+
                   {/* Mobile Menu Button */}
                   <div className="mobile-menu-toggle d-xl-none">
                     <a

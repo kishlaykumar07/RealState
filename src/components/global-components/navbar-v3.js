@@ -8,6 +8,7 @@ class NavbarV3 extends Component {
     const publicUrl = process.env.PUBLIC_URL + "/";
 
     const menuItems = [
+      { name: "About", link: "/about" },
       { name: "Properties", link: "properties-section" },
       { name: "Blogs", link: "/blog-grid" },
       { name: "Contact Us", link: "/contact" },
@@ -86,7 +87,7 @@ const MiddleHeader = ({ publicUrl, menuItems }) => (
                         <ScrollLink
                           to={item.link}
                           smooth={true}
-                          duration={500}
+                          duration={100}
                           className="scroll-link"
                         >
                           {item.name}
@@ -150,7 +151,7 @@ const MobileMenu = ({ publicUrl, menuItems }) => (
                 <ScrollLink
                   to={item.link}
                   smooth={true}
-                  duration={500}
+                  duration={100}
                   className="scroll-link"
                   onClick={() =>
                     document.querySelector(".ltn__utilize-close").click()

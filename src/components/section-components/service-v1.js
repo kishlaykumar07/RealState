@@ -26,7 +26,7 @@ class ServiceV5 extends Component {
 						</div>
 						<div className="ltn__feature-info">
 						<h3><Link to="/service-details">Property Management</Link></h3>
-						<p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
+						<p>over 1 million+ homes For Rent available on the website, we can match you with a house you will want to call home.</p>
 						</div>
 					</div>
 					</div>
@@ -37,7 +37,7 @@ class ServiceV5 extends Component {
 						</div>
 						<div className="ltn__feature-info">
 						<h3><Link to="/service-details">Mortgage Service</Link></h3>
-						<p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
+						<p>over 1 million+ homes For Rent available on the website, we can match you with a house you will want to call home.</p>
 						</div>
 					</div>
 					</div>
@@ -48,7 +48,7 @@ class ServiceV5 extends Component {
 						</div>
 						<div className="ltn__feature-info">
 						<h3><Link to="/service-details">Consulting Service</Link></h3>
-						<p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
+						<p>over 1 million+ homes For Rent available on the website, we can match you with a house you will want to call home.</p>
 						</div>
 					</div>
 					</div>
@@ -59,7 +59,7 @@ class ServiceV5 extends Component {
 						</div>
 						<div className="ltn__feature-info">
 						<h3><Link to="/service-details">Home Buying</Link></h3>
-						<p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
+						<p>over 1 million+ homes For Rent available on the website, we can match you with a house you will want to call home.</p>
 						</div>
 					</div>
 					</div>
@@ -70,7 +70,7 @@ class ServiceV5 extends Component {
 						</div>
 						<div className="ltn__feature-info">
 						<h3><Link to="/service-details">Home Selling</Link></h3>
-						<p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
+						<p>over 1 million+ homes For Rent available on the website, we can match you with a house you will want to call home.</p>
 						</div>
 					</div>
 					</div>
@@ -81,7 +81,7 @@ class ServiceV5 extends Component {
 						</div>
 						<div className="ltn__feature-info">
 						<h3><Link to="/service-details">Escrow Services</Link></h3>
-						<p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
+						<p>over 1 million+ homes For Rent available on the website, we can match you with a house you will want to call home.</p>
 						</div>
 					</div>
 					</div>

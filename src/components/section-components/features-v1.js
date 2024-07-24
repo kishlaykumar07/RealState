@@ -7,11 +7,11 @@ class FeaturesV1 extends Component {
     const { customClass = "" } = this.props;
 
     const categories = [
-      { title: "Apartments", img: "2.jpg", link: "/shop" },
-      { title: "Condos", img: "3.jpg", link: "/shop" },
-      { title: "Houses", img: "7.jpg", link: "/shop" },
-      { title: "Retail", img: "8.jpg", link: "/shop" },
-      { title: "Villas", img: "9.jpg", link: "/shop" },
+      { title: "Home and Land Packages", img: "2.jpg", link: "/shop" },
+      { title: "Dual Key Homes", img: "2.jpg", link: "/shop" },
+      { title: "NDIS Homes", img: "2.jpg", link: "/shop" },
+      { title: "Land for Sale", img: "2.jpg", link: "/shop" },
+      { title: "Residential Properties", img: "2.jpg", link: "/shop" },
     ];
 
     return (

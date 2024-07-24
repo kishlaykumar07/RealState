@@ -78,7 +78,7 @@ class FaqV1 extends Component {
                     {/* card */}
                     <div className="card">
                         <h6 className="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-6" aria-expanded="false">
-                        Sale code is not working
+                        Rent code is not working
                         </h6>
                         <div id="faq-item-2-6" className="collapse" data-bs-parent="#accordion_2">
                         <div className="card-body">

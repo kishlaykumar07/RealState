@@ -16,7 +16,7 @@ class SearchFormV2 extends Component {
 						<div className="ltn__tab-menu  text-uppercase">
 						<div className="nav">
 							<a className="active show" data-bs-toggle="tab" href="#ltn__form_tab_1_1"><i className="fas fa-home" />Rent Home</a>
-							<a data-bs-toggle="tab" href="#ltn__form_tab_1_2" ><i className="fas fa-home" />Sale Home</a>
+							<a data-bs-toggle="tab" href="#ltn__form_tab_1_2" ><i className="fas fa-home" />Rent Home</a>
 						</div>
 						</div>
 						<div className="tab-content">

@@ -122,45 +122,6 @@ class Footer_v1 extends Component {
                   </div>
                 </div>
               </div>
-              <div className="col-xl-2 col-md-6 col-sm-6 col-12">
-                <div className="footer-widget footer-menu-widget clearfix">
-                  <h4 className="footer-title">Services</h4>
-                  <div className="footer-menu go-top">
-                    <ul>
-                      <li>
-                        <Link to="/about">Terms &amp; Conditions</Link>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div className="col-xl-2 col-md-6 col-sm-6 col-12">
-                <div className="footer-widget footer-menu-widget clearfix">
-                  <h4 className="footer-title">Customer Care</h4>
-                  <div className="footer-menu go-top">
-                    <ul>
-                      <li>
-                        <Link to="/login">Login</Link>
-                      </li>
-                      <li>
-                        <Link to="/my-account">My account</Link>
-                      </li>
-                      <li>
-                        <Link to="/wishlist">Wish List</Link>
-                      </li>
-                      <li>
-                        <Link to="/add-listing">Add listing</Link>
-                      </li>
-                      <li>
-                        <Link to="/faq">FAQ</Link>
-                      </li>
-                      <li>
-                        <Link to="/contact">Contact us</Link>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
         </div>

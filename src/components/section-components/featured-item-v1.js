@@ -27,7 +27,7 @@ class FeaturedItemV1 extends Component {
 			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/1.jpg"} alt="#" /></Link>
 			            <div className="product-badge">
 			              <ul>
-			                <li className="sale-badge bg-green">For Rent</li>
+			                <li className="Rent-badge bg-green">For Rent</li>
 			              </ul>
 			            </div>
 			            <div className="product-img-location-gallery">
@@ -84,18 +84,8 @@ class FeaturedItemV1 extends Component {
 			            <div className="product-hover-action">
 			              <ul>
 			                <li>
-			                  <a href="#" title="Quick View" data-bs-toggle="modal" data-bs-target="#quick_view_modal">
-			                    <i className="flaticon-expand" />
-			                  </a>
-			                </li>
-			                <li>
 			                  <a href="#" title="Wishlist" data-bs-toggle="modal" data-bs-target="#liton_wishlist_modal">
 			                    <i className="flaticon-heart-1" /></a>
-			                </li>
-			                <li>
-			                  <a href="product-details.html" title="Product Details">
-			                    <i className="flaticon-add" />
-			                  </a>
 			                </li>
 			              </ul>
 			            </div>
@@ -106,10 +96,10 @@ class FeaturedItemV1 extends Component {
 			      <div className="col-lg-12">
 			        <div className="ltn__product-item ltn__product-item-4 text-center---">
 			          <div className="product-img go-top">
-			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/2.jpg"} alt="#" /></Link>
+			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/1.jpg"} alt="#" /></Link>
 			            <div className="product-badge">
 			              <ul>
-			                <li className="sale-badge bg-green---">For Sale</li>
+			                <li className="Rent-badge bg-green---">For Rent</li>
 			              </ul>
 			            </div>
 			            <div className="product-img-location-gallery">
@@ -166,18 +156,8 @@ class FeaturedItemV1 extends Component {
 			            <div className="product-hover-action">
 			              <ul>
 			                <li>
-			                  <a href="#" title="Quick View" data-bs-toggle="modal" data-bs-target="#quick_view_modal">
-			                    <i className="flaticon-expand" />
-			                  </a>
-			                </li>
-			                <li>
 			                  <a href="#" title="Wishlist" data-bs-toggle="modal" data-bs-target="#liton_wishlist_modal">
 			                    <i className="flaticon-heart-1" /></a>
-			                </li>
-			                <li>
-			                  <a href="product-details.html" title="Product Details">
-			                    <i className="flaticon-add" />
-			                  </a>
 			                </li>
 			              </ul>
 			            </div>
@@ -188,10 +168,10 @@ class FeaturedItemV1 extends Component {
 			      <div className="col-lg-12">
 			        <div className="ltn__product-item ltn__product-item-4 text-center---">
 			          <div className="product-img go-top">
-			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/3.jpg"} alt="#" /></Link>
+			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/1.jpg"} alt="#" /></Link>
 			            <div className="product-badge">
 			              <ul>
-			                <li className="sale-badge bg-green">For Rent</li>
+			                <li className="Rent-badge bg-green">For Rent</li>
 			              </ul>
 			            </div>
 			            <div className="product-img-location-gallery">
@@ -248,18 +228,8 @@ class FeaturedItemV1 extends Component {
 			            <div className="product-hover-action">
 			              <ul>
 			                <li>
-			                  <a href="#" title="Quick View" data-bs-toggle="modal" data-bs-target="#quick_view_modal">
-			                    <i className="flaticon-expand" />
-			                  </a>
-			                </li>
-			                <li>
 			                  <a href="#" title="Wishlist" data-bs-toggle="modal" data-bs-target="#liton_wishlist_modal">
 			                    <i className="flaticon-heart-1" /></a>
-			                </li>
-			                <li>
-			                  <a href="product-details.html" title="Product Details">
-			                    <i className="flaticon-add" />
-			                  </a>
 			                </li>
 			              </ul>
 			            </div>
@@ -270,10 +240,10 @@ class FeaturedItemV1 extends Component {
 			      <div className="col-lg-12">
 			        <div className="ltn__product-item ltn__product-item-4 text-center---">
 			          <div className="product-img go-top">
-			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/4.jpg"} alt="#" /></Link>
+			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/1.jpg"} alt="#" /></Link>
 			            <div className="product-badge">
 			              <ul>
-			                <li className="sale-badge bg-green">For Rent</li>
+			                <li className="Rent-badge bg-green">For Rent</li>
 			              </ul>
 			            </div>
 			            <div className="product-img-location-gallery">
@@ -330,18 +300,8 @@ class FeaturedItemV1 extends Component {
 			            <div className="product-hover-action">
 			              <ul>
 			                <li>
-			                  <a href="#" title="Quick View" data-bs-toggle="modal" data-bs-target="#quick_view_modal">
-			                    <i className="flaticon-expand" />
-			                  </a>
-			                </li>
-			                <li>
 			                  <a href="#" title="Wishlist" data-bs-toggle="modal" data-bs-target="#liton_wishlist_modal">
 			                    <i className="flaticon-heart-1" /></a>
-			                </li>
-			                <li>
-			                  <a href="product-details.html" title="Product Details">
-			                    <i className="flaticon-add" />
-			                  </a>
 			                </li>
 			              </ul>
 			            </div>
@@ -352,10 +312,10 @@ class FeaturedItemV1 extends Component {
 			      <div className="col-lg-12">
 			        <div className="ltn__product-item ltn__product-item-4 text-center---">
 			          <div className="product-img go-top">
-			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/5.jpg"} alt="#" /></Link>
+			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/1.jpg"} alt="#" /></Link>
 			            <div className="product-badge">
 			              <ul>
-			                <li className="sale-badge bg-green">For Rent</li>
+			                <li className="Rent-badge bg-green">For Rent</li>
 			              </ul>
 			            </div>
 			            <div className="product-img-location-gallery">
@@ -411,19 +371,9 @@ class FeaturedItemV1 extends Component {
 			            </div>
 			            <div className="product-hover-action">
 			              <ul>
-			                <li>
-			                  <a href="#" title="Quick View" data-bs-toggle="modal" data-bs-target="#quick_view_modal">
-			                    <i className="flaticon-expand" />
-			                  </a>
-			                </li>
-			                <li>
+							<li>
 			                  <a href="#" title="Wishlist" data-bs-toggle="modal" data-bs-target="#liton_wishlist_modal">
 			                    <i className="flaticon-heart-1" /></a>
-			                </li>
-			                <li>
-			                  <a href="product-details.html" title="Product Details">
-			                    <i className="flaticon-add" />
-			                  </a>
 			                </li>
 			              </ul>
 			            </div>
@@ -449,7 +399,7 @@ class FeaturedItemV1 extends Component {
 							<div className="row">
 								<div className="col-12">
 								<div className="modal-product-img">
-									<img src={publicUrl+"assets/img/product/7.png"} alt="#" />
+									<img src={publicUrl+"assets/img/product/1.png"} alt="#" />
 								</div>
 								<div className="modal-product-info go-top">
 									<h5><Link to="/product-details">Brake Conversion Kit</Link></h5>

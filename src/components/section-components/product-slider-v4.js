@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import parse from 'html-react-parser';
 
 class ProductSliderV4 extends Component {
 
@@ -27,7 +26,7 @@ class ProductSliderV4 extends Component {
 							<Link to="/product-details"><img src={publicUrl+"assets/img/product-3/1.jpg"} alt="#" /></Link>
 							<div className="product-badge">
 							<ul>
-								<li className="sale-badge bg-green">For Rent</li>
+								<li className="Rent-badge bg-green">For Rent</li>
 							</ul>
 							</div>
 							<div className="product-img-location-gallery">
@@ -111,7 +110,7 @@ class ProductSliderV4 extends Component {
 							<Link to="/product-details"><img src={publicUrl+"assets/img/product-3/2.jpg"} alt="#" /></Link>
 							<div className="product-badge">
 							<ul>
-								<li className="sale-badge bg-green---">For Sale</li>
+								<li className="Rent-badge bg-green---">For Rent</li>
 							</ul>
 							</div>
 							<div className="product-img-location-gallery">
@@ -195,7 +194,7 @@ class ProductSliderV4 extends Component {
 							<Link to="/product-details"><img src={publicUrl+"assets/img/product-3/3.jpg"} alt="#" /></Link>
 							<div className="product-badge">
 							<ul>
-								<li className="sale-badge bg-green">For Rent</li>
+								<li className="Rent-badge bg-green">For Rent</li>
 							</ul>
 							</div>
 							<div className="product-img-location-gallery">
@@ -279,7 +278,7 @@ class ProductSliderV4 extends Component {
 							<Link to="/product-details"><img src={publicUrl+"assets/img/product-3/4.jpg"} alt="#" /></Link>
 							<div className="product-badge">
 							<ul>
-								<li className="sale-badge bg-green">For Rent</li>
+								<li className="Rent-badge bg-green">For Rent</li>
 							</ul>
 							</div>
 							<div className="product-img-location-gallery">
@@ -363,7 +362,7 @@ class ProductSliderV4 extends Component {
 							<Link to="/product-details"><img src={publicUrl+"assets/img/product-3/5.jpg"} alt="#" /></Link>
 							<div className="product-badge">
 							<ul>
-								<li className="sale-badge bg-green">For Rent</li>
+								<li className="Rent-badge bg-green">For Rent</li>
 							</ul>
 							</div>
 							<div className="product-img-location-gallery">

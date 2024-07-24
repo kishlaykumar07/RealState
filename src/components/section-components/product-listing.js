@@ -34,7 +34,7 @@ class ProductListingV1 extends Component {
 							<div className="product-info">
 							<div className="product-badge">
 								<ul>
-								<li className="sale-badg">For Rent</li>
+								<li className="Rent-badg">For Rent</li>
 								</ul>
 							</div>
 							<h2 className="product-title go-top"><Link to="/product-details">New Apartment Nice View</Link></h2>
@@ -96,7 +96,7 @@ class ProductListingV1 extends Component {
 							<div className="product-info">
 							<div className="product-badge">
 								<ul>
-								<li className="sale-badg">For Sale</li>
+								<li className="Rent-badg">For Rent</li>
 								</ul>
 							</div>
 							<h2 className="product-title go-top"><Link to="/product-details">New Apartment Nice View</Link></h2>
@@ -158,7 +158,7 @@ class ProductListingV1 extends Component {
 							<div className="product-info">
 							<div className="product-badge">
 								<ul>
-								<li className="sale-badg">For Rent</li>
+								<li className="Rent-badg">For Rent</li>
 								</ul>
 							</div>
 							<h2 className="product-title go-top"><Link to="/product-details">New Apartment Nice View</Link></h2>
@@ -220,7 +220,7 @@ class ProductListingV1 extends Component {
 							<div className="product-info">
 							<div className="product-badge">
 								<ul>
-								<li className="sale-badg">For Rent</li>
+								<li className="Rent-badg">For Rent</li>
 								</ul>
 							</div>
 							<h2 className="product-title go-top"><Link to="/product-details">New Apartment Nice View</Link></h2>
@@ -282,7 +282,7 @@ class ProductListingV1 extends Component {
 							<div className="product-info">
 							<div className="product-badge">
 								<ul>
-								<li className="sale-badg">For Rent</li>
+								<li className="Rent-badg">For Rent</li>
 								</ul>
 							</div>
 							<h2 className="product-title go-top"><Link to="/product-details">New Apartment Nice View</Link></h2>
@@ -344,7 +344,7 @@ class ProductListingV1 extends Component {
 							<div className="product-info">
 							<div className="product-badge">
 								<ul>
-								<li className="sale-badg">For Rent</li>
+								<li className="Rent-badg">For Rent</li>
 								</ul>
 							</div>
 							<h2 className="product-title go-top"><Link to="/product-details">New Apartment Nice View</Link></h2>

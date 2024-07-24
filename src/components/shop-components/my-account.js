@@ -467,7 +467,7 @@ class MyAccount extends Component {
 								<select className="nice-select">
 								  <option>None</option>
 								  <option>Rentals</option>
-								  <option>Sales</option>
+								  {/* <option>Sales</option> */}
 								</select>
 							  </div>
 							</div>

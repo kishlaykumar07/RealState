@@ -964,7 +964,7 @@ fieldset legend {
 }
 
 .bg-green {
-  background-color: var(--green) !important;
+  background-color: var(--ltn__secondary-color) !important;
   color: var(--white) !important;
 }
 
@@ -17308,6 +17308,12 @@ input.cart-plus-minus-box {
   top: -20px;
   margin-bottom: 10px;
 }
+
+.parent-container {
+  /* display: flex; */
+  justify-content: flex-end;
+}
+
 
 .ltn__footer-2 .footer-menu ul li {
   margin-bottom: 30px;

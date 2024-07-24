@@ -78,7 +78,7 @@ class AddListing extends Component {
                                 <select className="nice-select">
                                 <option>None</option>
                                 <option>Rentals</option>
-                                <option>Sales</option>
+                       
                                 </select>
                             </div>
                             </div>

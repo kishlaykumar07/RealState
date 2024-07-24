@@ -26,23 +26,20 @@ class TestimonialV3 extends Component {
             <div className="col-lg-4">
               <div className="ltn__testimonial-item ltn__testimonial-item-7">
                 <div className="ltn__testimoni-info">
-                  <p>
+                  <p style={{ textAlign: "justify" }}>
                     <i className="flaticon-left-quote-1" />
-                    Precious ipsum dolor sit amet consectetur adipisicing elit,
-                    sed dos mod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad min veniam, quis nostrud Precious ips um
-                    dolor sit amet, consecte
+                    I would really recommend everyone for services from Willows homes Pty Ltd. If you’re looking for a reliable, trustworthy and motivated team to build up your dream home, u should definitely visit to the team for best services. The team is efficient and works in effective ways to make ur dream homeland in ur desired way and
                   </p>
                   <div className="ltn__testimoni-info-inner">
                     <div className="ltn__testimoni-img">
-                      <img
+                      <img 
                         src={publicUrl + "assets/img/testimonial/1.jpg"}
                         alt="#"
                       />
                     </div>
                     <div className="ltn__testimoni-name-designation">
-                      <h5>Jacob William</h5>
-                      <label>Selling Agents</label>
+                      <h5>David Josan</h5>
+                      <label></label>
                     </div>
                   </div>
                 </div>
@@ -51,12 +48,9 @@ class TestimonialV3 extends Component {
             <div className="col-lg-4">
               <div className="ltn__testimonial-item ltn__testimonial-item-7">
                 <div className="ltn__testimoni-info">
-                  <p>
+                <p style={{ textAlign: "justify" }}>
                     <i className="flaticon-left-quote-1" />
-                    Precious ipsum dolor sit amet consectetur adipisicing elit,
-                    sed dos mod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad min veniam, quis nostrud Precious ips um
-                    dolor sit amet, consecte
+                    Exceptional experience with Willow Homes!From start to finish,their professionalism,attention to detail, and timely completion surpassed expectations. The team's communication and craftsmanship were outstanding. Highly recommend for top-notch building and construction services. Will definitely choose them for future projects.
                   </p>
                   <div className="ltn__testimoni-info-inner">
                     <div className="ltn__testimoni-img">
@@ -66,8 +60,8 @@ class TestimonialV3 extends Component {
                       />
                     </div>
                     <div className="ltn__testimoni-name-designation">
-                      <h5>Kelian Anderson</h5>
-                      <label>Selling Agents</label>
+                      <h5>Harman Gill</h5>
+                      <label></label>
                     </div>
                   </div>
                 </div>
@@ -76,12 +70,9 @@ class TestimonialV3 extends Component {
             <div className="col-lg-4">
               <div className="ltn__testimonial-item ltn__testimonial-item-7">
                 <div className="ltn__testimoni-info">
-                  <p>
+                <p style={{ textAlign: "justify" }}>
                     <i className="flaticon-left-quote-1" />
-                    Precious ipsum dolor sit amet consectetur adipisicing elit,
-                    sed dos mod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad min veniam, quis nostrud Precious ips um
-                    dolor sit amet, consecte
+                    Fantastic experience with Willow Homes! They offered a full suite of services and excellent communication throughout the entire lifecycle of the project. We could not be happier with the final product. Their staff was available everyday and always gave us varities of ideas, keeping in mind our budget. It is exactly what we wanted! Highly recommend!
                   </p>
                   <div className="ltn__testimoni-info-inner">
                     <div className="ltn__testimoni-img">
@@ -91,38 +82,14 @@ class TestimonialV3 extends Component {
                       />
                     </div>
                     <div className="ltn__testimoni-name-designation">
-                      <h5>Adam Joseph</h5>
-                      <label>Selling Agents</label>
+                      <h5>Ronnie Ron</h5>
+                      <label></label>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div className="col-lg-4">
-              <div className="ltn__testimonial-item ltn__testimonial-item-7">
-                <div className="ltn__testimoni-info">
-                  <p>
-                    <i className="flaticon-left-quote-1" />
-                    Precious ipsum dolor sit amet consectetur adipisicing elit,
-                    sed dos mod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad min veniam, quis nostrud Precious ips um
-                    dolor sit amet, consecte
-                  </p>
-                  <div className="ltn__testimoni-info-inner">
-                    <div className="ltn__testimoni-img">
-                      <img
-                        src={publicUrl + "assets/img/testimonial/4.jpg"}
-                        alt="#"
-                      />
-                    </div>
-                    <div className="ltn__testimoni-name-designation">
-                      <h5>James Carter</h5>
-                      <label>Selling Agents</label>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+
             {/*  */}
           </div>
         </div>
