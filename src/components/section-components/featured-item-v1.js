@@ -139,7 +139,7 @@ class FeaturedItemV1 extends Component {
                   <div className="product-img go-top">
                     <Link to="/product-details">
                       <img
-                        src={publicUrl + "assets/img/product-3/1.jpg"}
+                        src={publicUrl + "assets/img/product-3/2.jpg"}
                         alt="#"
                       />
                     </Link>
@@ -252,7 +252,7 @@ class FeaturedItemV1 extends Component {
                   <div className="product-img go-top">
                     <Link to="/product-details">
                       <img
-                        src={publicUrl + "assets/img/product-3/1.jpg"}
+                        src={publicUrl + "assets/img/product-3/3.jpg"}
                         alt="#"
                       />
                     </Link>
@@ -365,7 +365,7 @@ class FeaturedItemV1 extends Component {
                   <div className="product-img go-top">
                     <Link to="/product-details">
                       <img
-                        src={publicUrl + "assets/img/product-3/1.jpg"}
+                        src={publicUrl + "assets/img/product-3/2.jpg"}
                         alt="#"
                       />
                     </Link>

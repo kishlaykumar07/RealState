@@ -37,7 +37,6 @@ class History extends Component {
 								<div className="col-lg-6 align-self-center">
 								<div className="about-us-info-wrap">
 									<div className="section-title-area ltn__section-title-2--- text-center---">
-									<h6 className="section-subtitle section-subtitle-2 ltn__secondary-color">Our History</h6>
 									<h1 className="section-title">We Started Our Journey</h1>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</p>
 									</div>

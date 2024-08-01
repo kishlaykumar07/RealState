@@ -21,7 +21,7 @@ class FeaturesV1 extends Component {
                 </div>
                 <div className="ltn__feature-info">
                   <h6>
-                    <Link to="/service-details">Homes & Lands</Link>
+                    <Link to="/Shop">Homes & Lands</Link>
                   </h6>
                 </div>
               </div>
@@ -36,7 +36,7 @@ class FeaturesV1 extends Component {
                 </div>
                 <div className="ltn__feature-info">
                   <h6>
-                    <Link to="/service-details">Dual Key Homes</Link>
+                    <Link to="/Shop">Dual Key Homes</Link>
                   </h6>
                 </div>
               </div>
@@ -51,7 +51,7 @@ class FeaturesV1 extends Component {
                 </div>
                 <div className="ltn__feature-info">
                   <h6>
-                    <Link to="/service-details">NDIS HOMES</Link>
+                    <Link to="/Shop">NDIS HOMES</Link>
                   </h6>
                 </div>
               </div>
@@ -66,7 +66,7 @@ class FeaturesV1 extends Component {
                 </div>
                 <div className="ltn__feature-info">
                   <h6>
-                    <Link to="/service-details">Land</Link>
+                    <Link to="/Shop">Land</Link>
                   </h6>
                 </div>
               </div>
@@ -81,7 +81,7 @@ class FeaturesV1 extends Component {
                 </div>
                 <div className="ltn__feature-info">
                   <h6>
-                    <Link to="/service-details">One Part Contract</Link>
+                    <Link to="/Shop">ONE PART CONTRACT</Link>
                   </h6>
                 </div>
               </div>

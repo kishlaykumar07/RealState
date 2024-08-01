@@ -37,7 +37,6 @@ class AboutV1 extends Component {
               <div className="about-us-info-wrap">
                 <div className="section-title-area ltn__section-title-2--- mb-20">
                   <h6 className="section-subtitle section-subtitle-2 ltn__secondary-color">
-                    A
                   </h6>
                   <h1 className="section-title">
                     The Leading Real Estate Rental Marketplace<span>.</span>

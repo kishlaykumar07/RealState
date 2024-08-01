@@ -61,7 +61,7 @@ class BannerV3 extends Component {
                           Willow Building Group
                         </h6>
                         <h1 className="slide-title animated ">
-                          Find Your Dream <br /> House By Us
+                          Find Your Dream <br /> Properties With Us
                         </h1>
                         <div className="slide-brief animated">
                           <p>
@@ -94,7 +94,7 @@ class BannerV3 extends Component {
                           Willow Building Group
                         </h6>
                         <h1 className="slide-title animated ">
-                          Find Your Dream <br /> House By Us
+                          Find Your Dream <br /> Properties With Us
                         </h1>
                         <div className="slide-brief animated">
                           <p>

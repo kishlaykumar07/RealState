@@ -45,7 +45,7 @@ class ShopGridV1 extends Component {
                             <div className="product-info">
                               <div className="product-badge">
                                 <ul>
-                                  <li className="Rent-badg">For Rent</li>
+                                  <li className="Rent-badg">For Sale</li>
                                 </ul>
                               </div>
                               <h2 className="product-title go-top">
@@ -77,38 +77,6 @@ class ShopGridV1 extends Component {
                                   Square Ft
                                 </li>
                               </ul>
-                              <div className="product-hover-action">
-                                <ul>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Quick View"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#quick_view_modal"
-                                    >
-                                      <i className="flaticon-expand" />
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Wishlist"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#liton_wishlist_modal"
-                                    >
-                                      <i className="flaticon-heart-1" />
-                                    </a>
-                                  </li>
-                                  <li className="go-top">
-                                    <Link
-                                      to="/product-details"
-                                      title="Product Details"
-                                    >
-                                      <i className="flaticon-add" />
-                                    </Link>
-                                  </li>
-                                </ul>
-                              </div>
                             </div>
                             <div className="product-info-bottom">
                               <div className="product-price">
@@ -145,7 +113,7 @@ class ShopGridV1 extends Component {
                             <div className="product-info">
                               <div className="product-badge">
                                 <ul>
-                                  <li className="Rent-badg">For Rent</li>
+                                  <li className="Rent-badg">For Sale</li>
                                 </ul>
                               </div>
                               <h2 className="product-title go-top">
@@ -177,38 +145,6 @@ class ShopGridV1 extends Component {
                                   Square Ft
                                 </li>
                               </ul>
-                              <div className="product-hover-action">
-                                <ul>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Quick View"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#quick_view_modal"
-                                    >
-                                      <i className="flaticon-expand" />
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Wishlist"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#liton_wishlist_modal"
-                                    >
-                                      <i className="flaticon-heart-1" />
-                                    </a>
-                                  </li>
-                                  <li className="go-top">
-                                    <Link
-                                      to="/product-details"
-                                      title="Product Details"
-                                    >
-                                      <i className="flaticon-add" />
-                                    </Link>
-                                  </li>
-                                </ul>
-                              </div>
                             </div>
                             <div className="product-info-bottom">
                               <div className="product-price">
@@ -245,7 +181,7 @@ class ShopGridV1 extends Component {
                             <div className="product-info">
                               <div className="product-badge">
                                 <ul>
-                                  <li className="Rent-badg">For Rent</li>
+                                  <li className="Rent-badg">For Sale</li>
                                 </ul>
                               </div>
                               <h2 className="product-title go-top">
@@ -277,38 +213,6 @@ class ShopGridV1 extends Component {
                                   Square Ft
                                 </li>
                               </ul>
-                              <div className="product-hover-action">
-                                <ul>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Quick View"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#quick_view_modal"
-                                    >
-                                      <i className="flaticon-expand" />
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Wishlist"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#liton_wishlist_modal"
-                                    >
-                                      <i className="flaticon-heart-1" />
-                                    </a>
-                                  </li>
-                                  <li className="go-top">
-                                    <Link
-                                      to="/product-details"
-                                      title="Product Details"
-                                    >
-                                      <i className="flaticon-add" />
-                                    </Link>
-                                  </li>
-                                </ul>
-                              </div>
                             </div>
                             <div className="product-info-bottom">
                               <div className="product-price">
@@ -345,7 +249,7 @@ class ShopGridV1 extends Component {
                             <div className="product-info">
                               <div className="product-badge">
                                 <ul>
-                                  <li className="Rent-badg">For Rent</li>
+                                  <li className="Rent-badg">For Sale</li>
                                 </ul>
                               </div>
                               <h2 className="product-title go-top">
@@ -377,38 +281,6 @@ class ShopGridV1 extends Component {
                                   Square Ft
                                 </li>
                               </ul>
-                              <div className="product-hover-action">
-                                <ul>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Quick View"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#quick_view_modal"
-                                    >
-                                      <i className="flaticon-expand" />
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Wishlist"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#liton_wishlist_modal"
-                                    >
-                                      <i className="flaticon-heart-1" />
-                                    </a>
-                                  </li>
-                                  <li className="go-top">
-                                    <Link
-                                      to="/product-details"
-                                      title="Product Details"
-                                    >
-                                      <i className="flaticon-add" />
-                                    </Link>
-                                  </li>
-                                </ul>
-                              </div>
                             </div>
                             <div className="product-info-bottom">
                               <div className="product-price">
@@ -445,7 +317,7 @@ class ShopGridV1 extends Component {
                             <div className="product-info">
                               <div className="product-badge">
                                 <ul>
-                                  <li className="Rent-badg">For Rent</li>
+                                  <li className="Rent-badg">For Sale</li>
                                 </ul>
                               </div>
                               <h2 className="product-title go-top">
@@ -477,38 +349,6 @@ class ShopGridV1 extends Component {
                                   Square Ft
                                 </li>
                               </ul>
-                              <div className="product-hover-action">
-                                <ul>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Quick View"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#quick_view_modal"
-                                    >
-                                      <i className="flaticon-expand" />
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Wishlist"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#liton_wishlist_modal"
-                                    >
-                                      <i className="flaticon-heart-1" />
-                                    </a>
-                                  </li>
-                                  <li className="go-top">
-                                    <Link
-                                      to="/product-details"
-                                      title="Product Details"
-                                    >
-                                      <i className="flaticon-add" />
-                                    </Link>
-                                  </li>
-                                </ul>
-                              </div>
                             </div>
                             <div className="product-info-bottom">
                               <div className="product-price">
@@ -545,7 +385,7 @@ class ShopGridV1 extends Component {
                             <div className="product-info">
                               <div className="product-badge">
                                 <ul>
-                                  <li className="Rent-badg">For Rent</li>
+                                  <li className="Rent-badg">For Sale</li>
                                 </ul>
                               </div>
                               <h2 className="product-title go-top">
@@ -577,38 +417,6 @@ class ShopGridV1 extends Component {
                                   Square Ft
                                 </li>
                               </ul>
-                              <div className="product-hover-action">
-                                <ul>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Quick View"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#quick_view_modal"
-                                    >
-                                      <i className="flaticon-expand" />
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Wishlist"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#liton_wishlist_modal"
-                                    >
-                                      <i className="flaticon-heart-1" />
-                                    </a>
-                                  </li>
-                                  <li className="go-top">
-                                    <Link
-                                      to="/product-details"
-                                      title="Product Details"
-                                    >
-                                      <i className="flaticon-add" />
-                                    </Link>
-                                  </li>
-                                </ul>
-                              </div>
                             </div>
                             <div className="product-info-bottom">
                               <div className="product-price">
@@ -656,7 +464,7 @@ class ShopGridV1 extends Component {
                               <div className="product-badge-price">
                                 <div className="product-badge">
                                   <ul>
-                                    <li className="Rent-badg">For Rent</li>
+                                    <li className="Rent-badg">For Sale</li>
                                   </ul>
                                 </div>
                                 <div className="product-price">
@@ -715,38 +523,6 @@ class ShopGridV1 extends Component {
                                   </h6>
                                   <small>Estate Agents</small>
                                 </div>
-                              </div>
-                              <div className="product-hover-action">
-                                <ul>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Quick View"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#quick_view_modal"
-                                    >
-                                      <i className="flaticon-expand" />
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Wishlist"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#liton_wishlist_modal"
-                                    >
-                                      <i className="flaticon-heart-1" />
-                                    </a>
-                                  </li>
-                                  <li className="go-top">
-                                    <Link
-                                      to="/product-details"
-                                      title="Product Details"
-                                    >
-                                      <i className="flaticon-add" />
-                                    </Link>
-                                  </li>
-                                </ul>
                               </div>
                             </div>
                           </div>
@@ -766,7 +542,7 @@ class ShopGridV1 extends Component {
                               <div className="product-badge-price">
                                 <div className="product-badge">
                                   <ul>
-                                    <li className="Rent-badg">For Rent</li>
+                                    <li className="Rent-badg">For Sale</li>
                                   </ul>
                                 </div>
                                 <div className="product-price">
@@ -825,38 +601,6 @@ class ShopGridV1 extends Component {
                                   </h6>
                                   <small>Estate Agents</small>
                                 </div>
-                              </div>
-                              <div className="product-hover-action">
-                                <ul>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Quick View"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#quick_view_modal"
-                                    >
-                                      <i className="flaticon-expand" />
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Wishlist"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#liton_wishlist_modal"
-                                    >
-                                      <i className="flaticon-heart-1" />
-                                    </a>
-                                  </li>
-                                  <li className="go-top">
-                                    <Link
-                                      to="/product-details"
-                                      title="Product Details"
-                                    >
-                                      <i className="flaticon-add" />
-                                    </Link>
-                                  </li>
-                                </ul>
                               </div>
                             </div>
                           </div>
@@ -876,7 +620,7 @@ class ShopGridV1 extends Component {
                               <div className="product-badge-price">
                                 <div className="product-badge">
                                   <ul>
-                                    <li className="Rent-badg">For Rent</li>
+                                    <li className="Rent-badg">For Sale</li>
                                   </ul>
                                 </div>
                                 <div className="product-price">
@@ -935,38 +679,6 @@ class ShopGridV1 extends Component {
                                   </h6>
                                   <small>Estate Agents</small>
                                 </div>
-                              </div>
-                              <div className="product-hover-action">
-                                <ul>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Quick View"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#quick_view_modal"
-                                    >
-                                      <i className="flaticon-expand" />
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Wishlist"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#liton_wishlist_modal"
-                                    >
-                                      <i className="flaticon-heart-1" />
-                                    </a>
-                                  </li>
-                                  <li className="go-top">
-                                    <Link
-                                      to="/product-details"
-                                      title="Product Details"
-                                    >
-                                      <i className="flaticon-add" />
-                                    </Link>
-                                  </li>
-                                </ul>
                               </div>
                             </div>
                           </div>
@@ -986,7 +698,7 @@ class ShopGridV1 extends Component {
                               <div className="product-badge-price">
                                 <div className="product-badge">
                                   <ul>
-                                    <li className="Rent-badg">For Rent</li>
+                                    <li className="Rent-badg">For Sale</li>
                                   </ul>
                                 </div>
                                 <div className="product-price">
@@ -1045,38 +757,6 @@ class ShopGridV1 extends Component {
                                   </h6>
                                   <small>Estate Agents</small>
                                 </div>
-                              </div>
-                              <div className="product-hover-action">
-                                <ul>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Quick View"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#quick_view_modal"
-                                    >
-                                      <i className="flaticon-expand" />
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Wishlist"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#liton_wishlist_modal"
-                                    >
-                                      <i className="flaticon-heart-1" />
-                                    </a>
-                                  </li>
-                                  <li className="go-top">
-                                    <Link
-                                      to="/product-details"
-                                      title="Product Details"
-                                    >
-                                      <i className="flaticon-add" />
-                                    </Link>
-                                  </li>
-                                </ul>
                               </div>
                             </div>
                           </div>
@@ -1096,7 +776,7 @@ class ShopGridV1 extends Component {
                               <div className="product-badge-price">
                                 <div className="product-badge">
                                   <ul>
-                                    <li className="Rent-badg">For Rent</li>
+                                    <li className="Rent-badg">For Sale</li>
                                   </ul>
                                 </div>
                                 <div className="product-price">
@@ -1156,75 +836,12 @@ class ShopGridV1 extends Component {
                                   <small>Estate Agents</small>
                                 </div>
                               </div>
-                              <div className="product-hover-action">
-                                <ul>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Quick View"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#quick_view_modal"
-                                    >
-                                      <i className="flaticon-expand" />
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      href="#"
-                                      title="Wishlist"
-                                      data-bs-toggle="modal"
-                                      data-bs-target="#liton_wishlist_modal"
-                                    >
-                                      <i className="flaticon-heart-1" />
-                                    </a>
-                                  </li>
-                                  <li className="go-top">
-                                    <Link
-                                      to="/product-details"
-                                      title="Product Details"
-                                    >
-                                      <i className="flaticon-add" />
-                                    </Link>
-                                  </li>
-                                </ul>
-                              </div>
                             </div>
                           </div>
                         </div>
                         {/*  */}
                       </div>
                     </div>
-                  </div>
-                </div>
-                <div className="ltn__pagination-area text-center">
-                  <div className="ltn__pagination">
-                    <ul>
-                      <li>
-                        <Link to="#">
-                          <i className="fas fa-angle-double-left" />
-                        </Link>
-                      </li>
-                      <li>
-                        <Link to="#">1</Link>
-                      </li>
-                      <li className="active">
-                        <Link to="#">2</Link>
-                      </li>
-                      <li>
-                        <Link to="#">3</Link>
-                      </li>
-                      <li>
-                        <Link to="#">...</Link>
-                      </li>
-                      <li>
-                        <Link to="#">10</Link>
-                      </li>
-                      <li>
-                        <Link to="#">
-                          <i className="fas fa-angle-double-right" />
-                        </Link>
-                      </li>
-                    </ul>
                   </div>
                 </div>
               </div>
@@ -1392,7 +1009,6 @@ class ShopGridV1 extends Component {
                                     />
                                   </div>
                                 </li>
-                                
                               </ul>
                             </div>
                             <hr />
