@@ -49,10 +49,10 @@ class Footer_v1 extends Component {
                     </div>
                   </div>
                   <p style={{ textAlign: "justify" }}>
-                    Willow Homes is a building company based in Adelaide, South
-                    Australia. We at Willow Homes treat each of our projects as
-                    a Jewel. We build homes by using quality products and
-                    maintain high standard of workmanship.
+                    Willow Building Group is a building company based in
+                    Adelaide, South Australia. We at Willow Building Group treat
+                    each of our projects as a Jewel. We build homes by using
+                    quality products and maintain high standard of workmanship.
                   </p>
                   <div className="ltn__social-media mt-20">
                     <Social />
