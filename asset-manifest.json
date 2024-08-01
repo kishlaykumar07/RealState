@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/RealState/static/js/main.3bbcf93a.js",
+    "main.js": "/RealState/static/js/main.28b255e4.js",
     "index.html": "/RealState/index.html",
-    "main.3bbcf93a.js.map": "/RealState/static/js/main.3bbcf93a.js.map"
+    "main.28b255e4.js.map": "/RealState/static/js/main.28b255e4.js.map"
   },
   "entrypoints": [
-    "static/js/main.3bbcf93a.js"
+    "static/js/main.28b255e4.js"
   ]
 }

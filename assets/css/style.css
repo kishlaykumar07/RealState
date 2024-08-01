@@ -152,7 +152,7 @@ font-family: 'Poppins', sans-serif;
 .col-xl-9,
 .col-xl-auto {
   padding-right: 15px;
-  padding-left: 15px;
+  padding-left: 10px;
   position: relative;
 }
 
@@ -507,6 +507,7 @@ a i {
 img {
   max-width: 100%;
 }
+
 
 ul li,
 ol li {
@@ -2177,7 +2178,7 @@ ul {
 }
 
 .pt-115 {
-  padding-top: 115px;
+  padding-top: 70px;
 }
 
 .pt-118 {
@@ -2185,7 +2186,7 @@ ul {
 }
 
 .pt-120 {
-  padding-top: 120px;
+  padding-top: 60px;
 }
 
 .pt-122 {
@@ -2352,7 +2353,7 @@ ul {
 }
 
 .pb-90 {
-  padding-bottom: 90px;
+  padding-bottom: 15x;
 }
 
 .pb-95 {
@@ -2967,6 +2968,11 @@ ul {
 
 .wp-block-video video {
   max-width: 636px;
+}
+
+/*  */
+.properties_img img {
+  max-width: 65%;
 }
 
 .wp-block-image img {
@@ -4025,7 +4031,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 ---------------------------------------------------- */
 .ltn__breadcrumb-area {
   background-color: var(--section-bg-1);
-  margin-bottom: 120px;
+  margin-bottom: 30px;
   padding-top: 110px;
   padding-bottom: 110px;
 }
@@ -4172,6 +4178,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     Widgets
 -------------------------------------------------------------- */
 .widget {
+  margin-top: 25px;
   margin-bottom: 40px;
   padding: 35px 30px 40px 35px;
   border: 2px solid var(--border-color-11);
@@ -6221,6 +6228,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   visibility: hidden;
 }
 
+
 .search-open.header-search-1-form {
   height: 90px;
 }
@@ -6370,7 +6378,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .ltn__header-4 .ltn__header-middle-area,
 .ltn__header-5 .ltn__header-middle-area {
   padding-top: 22px;
-  padding-bottom: 22px;
+  padding-bottom: 8px;
 }
 
 .ltn__header-4 .ltn__header-top-area {
@@ -7727,7 +7735,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 
 .slick-slide-dots-1 .slick-dots {
   position: absolute;
-  bottom: 50px;
+  bottom: 25px;
   width: 100%;
   margin: 0;
 }
@@ -10584,6 +10592,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+  height: 380px;
 }
 
 .bg-image-top {
@@ -11483,6 +11492,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   border: 1px solid var(--border-color-8);
   margin-bottom: 30px;
   padding: 40px 30px 35px;
+  height: 175px;
 }
 .ltn__feature-item-6::before {
   position: absolute;
