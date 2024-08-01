@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
 import Social from "../section-components/social";
 import Copyright from "./copyright";
 
@@ -36,7 +35,6 @@ class Footer_v1 extends Component {
 
   render() {
     let publicUrl = process.env.PUBLIC_URL + "/";
-    let imgattr = "Footer logo";
 
     return (
       <footer className="ltn__footer-area  ">
@@ -56,71 +54,24 @@ class Footer_v1 extends Component {
                     a Jewel. We build homes by using quality products and
                     maintain high standard of workmanship.
                   </p>
-                  <div className="footer-address">
-                    <ul>
-                      <li>
-                        <div className="footer-address-icon">
-                          <i className="icon-placeholder" />
-                        </div>
-                        <div className="footer-address-info">
-                          <p>839-841 Main North Road, Pooraka SA 5095</p>
-                        </div>
-                      </li>
-                      <li>
-                        <div className="footer-address-icon">
-                          <i className="icon-call" />
-                        </div>
-                        <div className="footer-address-info">
-                          <p>
-                            <a href="tel:08 7225 7911">08 7225 7911</a>
-                          </p>
-                        </div>
-                      </li>
-                      <li>
-                        <div className="footer-address-icon">
-                          <i className="icon-mail" />
-                        </div>
-                        <div className="footer-address-info">
-                          <p>
-                            <a href="mailto:example@example.com">
-                            info@willowhomes.com.au
-                            </a>
-                          </p>
-                        </div>
-                      </li>
-                    </ul>
-                  </div>
                   <div className="ltn__social-media mt-20">
                     <Social />
                   </div>
                 </div>
               </div>
-              <div className="col-xl-2 col-md-6 col-sm-6 col-12">
-                <div className="footer-widget footer-menu-widget clearfix">
-                  <h4 className="footer-title">Company</h4>
-                  <div className="footer-menu go-top">
-                    <ul>
-                      <li>
-                        <Link to="/about">About</Link>
-                      </li>
-                      <li>
-                        <Link to="/blog-grid">Blog</Link>
-                      </li>
-                      <li>
-                        <Link to="/shop">All Products</Link>
-                      </li>
-                      <li>
-                        <Link to="/contact">Contact</Link>
-                      </li>
-                      <li>
-                        <Link to="/faq">FAQ</Link>
-                      </li>
-                      <li>
-                        <Link to="/contact">Contact us</Link>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
+
+              <div className="col-lg-4 offset-lg-4 col-sm-6 col-12">
+                <h3>Get In Touch</h3>
+                <p>Address: 839-841 Main North Road, Pooraka SA 5095</p>
+                <p>Phone: 08 7225 7911</p>
+                <p>WhatsApp: 0435 087 911</p>
+                <p>
+                  Email:{" "}
+                  <a href="mailto:example@example.com">
+                    info@willowhomes.com.au
+                  </a>
+                </p>
+                <p>Builder License Number: BLD296546</p>
               </div>
             </div>
           </div>

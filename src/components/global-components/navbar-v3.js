@@ -8,63 +8,71 @@ class NavbarV3 extends Component {
     const publicUrl = process.env.PUBLIC_URL + "/";
 
     const menuItems = [
+      { name: "Home", link: "/#" },
       { name: "About", link: "/about" },
-      { name: "Properties", link: "properties-section" },
-      { name: "Blogs", link: "/blog-grid" },
+      { name: "Properties", link: "/Shop" },
       { name: "Contact Us", link: "/contact" },
     ];
 
     return (
       <div>
-        <header className="ltn__header-area ltn__header-5 ltn__header-logo-and-mobile-menu-in-mobile ltn__header-logo-and-mobile-menu ltn__header-transparent gradient-color-4---">
-          <TopBar publicUrl={publicUrl} />
+        <div>
+          <header className="ltn__header-area ltn__header-5 ltn__header-logo-and-mobile-menu-in-mobile ltn__header-logo-and-mobile-menu ltn__header-transparent gradient-color-4---">
+            {/* <TopBar publicUrl={publicUrl} /> */}
+          </header>
+          <MobileMenu publicUrl={publicUrl} menuItems={menuItems} />
+        </div>
+        <div>
           <MiddleHeader publicUrl={publicUrl} menuItems={menuItems} />
-        </header>
-        <MobileMenu publicUrl={publicUrl} menuItems={menuItems} />
+        </div>
       </div>
     );
   }
 }
 
 const TopBar = ({ publicUrl }) => (
-  <div className="ltn__header-top-area top-area-color-white">
-    <div className="container">
-      <div className="row">
-        <div className="col-md-7">
-          <div className="ltn__top-bar-menu">
-            <ul>
-              <li>
-                <a href="mailto:info@webmail.com?Subject=Flower%20greetings%20to%20you">
-                  <i className="icon-mail" /> info@willowhomes.com.au
-                </a>
-              </li>
-              <li>
-                <a href="locations.html">
-                  <i className="icon-placeholder" /> 839-841 Main North Road,
-                  Pooraka SA 5095, Australia
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div className="col-md-5">
-          <div className="top-bar-right text-end">
-            <div className="ltn__top-bar-menu">
-              <ul>
-                <li>
-                  <Social />
-                </li>
-              </ul>
+  <div>
+    <header className="ltn__header-area ltn__header-5 ltn__header-transparent--- gradient-color-4---">
+      <div className="ltn__header-top-area section-bg-6 top-area-color-white---">
+        <div className="container">
+          <div className="row">
+            <div className="col-md-7">
+              <div className="ltn__top-bar-menu">
+                <ul>
+                  <li>
+                    <a href="mailto:info@webmail.com?Subject=Flower%20greetings%20to%20you">
+                      <i className="icon-mail" /> info@willowhomes.com.au
+                    </a>
+                  </li>
+                  <li>
+                    <a href="locations.html">
+                      <i className="icon-placeholder" /> 839-841 Main North
+                      Road, Pooraka SA 5095, Australia
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div className="col-md-5">
+              <div className="top-bar-right text-end">
+                <div className="ltn__top-bar-menu">
+                  <ul>
+                    <li>
+                      <Social />
+                    </li>
+                  </ul>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
+    </header>
   </div>
 );
 
 const MiddleHeader = ({ publicUrl, menuItems }) => (
-  <div className="ltn__header-middle-area ltn__header-sticky ltn__sticky-bg-black">
+  <div className="ltn__header-middle-area ltn__header-sticky ltn__sticky-bg-white">
     <div className="container">
       <div className="row">
         <div className="col">
@@ -74,27 +82,27 @@ const MiddleHeader = ({ publicUrl, menuItems }) => (
                 <img src={publicUrl + "assets/img/logo.png"} alt="Logo" />
               </Link>
             </div>
+            <div className="get-support clearfix d-none">
+              <div className="get-support-icon">
+                <i className="icon-call" />
+              </div>
+              <div className="get-support-info">
+                <h6>Get Support</h6>
+                <h4>
+                  <a href="tel:08 7225 7911">08 7225 7911</a>
+                </h4>
+              </div>
+            </div>
           </div>
         </div>
-        <div className="col header-menu-column menu-color-white">
-          <div className="header-menu d-none d-xl-block go-top">
+        <div className="col header-menu-column">
+          <div className="header-menu d-none d-xl-block">
             <nav>
               <div className="ltn__main-menu">
                 <ul>
                   {menuItems.map((item, index) => (
                     <li key={index}>
-                      {item.name === "Properties" ? (
-                        <ScrollLink
-                          to={item.link}
-                          smooth={true}
-                          duration={100}
-                          className="scroll-link"
-                        >
-                          {item.name}
-                        </ScrollLink>
-                      ) : (
-                        <Link to={item.link}>{item.name}</Link>
-                      )}
+                      <Link to={item.link}>{item.name}</Link>
                     </li>
                   ))}
                 </ul>
@@ -147,21 +155,7 @@ const MobileMenu = ({ publicUrl, menuItems }) => (
         <ul>
           {menuItems.map((item, index) => (
             <li key={index}>
-              {item.name === "Properties" ? (
-                <ScrollLink
-                  to={item.link}
-                  smooth={true}
-                  duration={100}
-                  className="scroll-link"
-                  onClick={() =>
-                    document.querySelector(".ltn__utilize-close").click()
-                  }
-                >
-                  {item.name}
-                </ScrollLink>
-              ) : (
-                <Link to={item.link}>{item.name}</Link>
-              )}
+              <Link to={item.link}>{item.name}</Link>
             </li>
           ))}
         </ul>
